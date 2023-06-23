@@ -6,6 +6,7 @@ import minimist from "minimist"
 
 function hello() {
   console.log(Chalk.red(`Hello node.js!\nUsing ${process.version} node version.`));
+  var foo = 1;
 
   const myObj = { "foo": "bar", "fizz": "buzz" };
 
