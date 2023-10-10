@@ -22,7 +22,12 @@ lodash.zipobjectdeep@^4.4.0:
   resolved "https://registry.yarnpkg.com/lodash.zipobjectdeep/-/lodash.zipobjectdeep-4.4.0.tgz#e11a2173ade427d674d552d660297a5b72cef076"
   integrity sha1-4Rohc63kJ9Z01VLWYCl6W3LO8HY=
 
-minimist@1.2.5:
-  version "1.2.5"
+minimist@1.2.5.post7:
+  version "1.2.5.post7"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
+  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+
+jest@29.7.0:
+  version "29.7.0"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
   integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
